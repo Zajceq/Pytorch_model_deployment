@@ -1,1 +1,1 @@
-# Pytorch_model_deployment
+This repository contains one of my Google Colab notebooks focused on learning PyTorch. In this project, I create the necessary files for HuggingFace and upload two models to it: FoodVision Mini and FoodVision Big.
